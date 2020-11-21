@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab09SharedPreferences</string>
+    <string name="size_font">com.example.lab09sharedpreferences.sizefont</string>
+    <string name="font">comexample.lab09sharedpreferences.font</string>
+    <string name="color">com.example.lab09sharedpreferences.color</string>
+    <string name="theme">com.example.lab09sharedpreferences.theme</string>
+    <string name="font_size">"Tamaño de fuente: "</string>
+    <string name="test_text">Texto de Prueba</string>
+    <string name="change_color_app">Cambiar Color de la Aplicación</string>
+    <string name="font_type">Tipo de fuente:</string>
+    <string name="theme_app">"Tema de la App: "</string>
+
+</resources>
